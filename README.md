@@ -6,10 +6,10 @@ The goal is to analyze the Kaggle Titanic dataset and experiment with multiple M
 ## Project Structure
 
 `data/raw/` - original CSV files from Kaggle
-'data/processed/' - preprocessed data ready for modeling
-'notebooks/' - Jupyter Notebooks for data exploration and visualization
-'reports/figures/' - generated plots and visualizations
-'src/' - Python code for preprocessing, modeling, and evaluation
+`data/processed/` - preprocessed data ready for modeling
+`notebooks/` - Jupyter Notebooks for data exploration and visualization
+`reports/figures/` - generated plots and visualizations
+`src/` - Python code for preprocessing, modeling, and evaluation
 
 ## Next Steps
 
