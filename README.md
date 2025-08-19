@@ -13,8 +13,8 @@ The goal is to analyze the Kaggle Titanic dataset and experiment with multiple M
 
 ## Next Steps
 
-[] Data preprocessing
-[] Exploratory Data Analysis (EDA) and visualization
-[] Model building and experimentation
-[] Evaluation and comparison of model performance
-[] Feature engineering and fine-tune the model
+1. [] Data preprocessing
+2. [] Exploratory Data Analysis (EDA) and visualization
+3. [] Model building and experimentation
+4. [] Evaluation and comparison of model performance
+5. [] Feature engineering and fine-tune the model
