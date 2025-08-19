@@ -11,6 +11,13 @@ The goal is to analyze the Kaggle Titanic dataset and experiment with multiple M
 - `reports/figures/` - generated plots and visualizations
 - `src/` - Python code for preprocessing, modeling, and evaluation
 
+## Data
+This project **does not include raw or processed data** in the repository.
+To reproduce the results, follow these steps:
+1. Download the original Titanic dataset from "https://www.kaggle.com/competitions/titanic/data" and place the CSV files in `data/raw`.
+2. Run the preprocessing scripts in `src/` to generate the preprocessing data in `data/processed`.
+3. Run the notebooks in `notebooks/` to explore, visualize and train models.
+
 ## Next Steps
 
 1. [] Data preprocessing

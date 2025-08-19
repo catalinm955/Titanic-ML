@@ -1,0 +1,21 @@
+# Data Folders
+data/
+
+# Python cache
+__pycache__/
+*.pyc 
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env 
+*.venv
+
+# OS files
+.DS_Store
+Thumbs.db 
+
+# Logs
+*.log 
