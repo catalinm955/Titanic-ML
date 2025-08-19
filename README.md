@@ -11,6 +11,26 @@ The goal is to analyze the Kaggle Titanic dataset and experiment with multiple M
 - `reports/figures/` - generated plots and visualizations
 - `src/` - Python code for preprocessing, modeling, and evaluation
 
+## Setup
+
+1. Create a virtual environment
+```bash
+python -m venv venv
+```
+2. Activate the environment
+```bash
+venv/Scripts/activate
+```
+3. Install libraries
+```bash
+pip install -r requirements.txt
+```
+4. (Optional) To add a new library
+```bash
+pip install <library_name>
+pip freeze > requirements.txt
+```
+
 ## Data
 This project **does not include raw or processed data** in the repository.
 To reproduce the results, follow these steps:
@@ -20,8 +40,8 @@ To reproduce the results, follow these steps:
 
 ## Next Steps
 
-1. [] Data preprocessing
-2. [] Exploratory Data Analysis (EDA) and visualization
-3. [] Model building and experimentation
-4. [] Evaluation and comparison of model performance
-5. [] Feature engineering and fine-tune the model
+1. [ ] Data preprocessing
+2. [ ] Exploratory Data Analysis (EDA) and visualization
+3. [ ] Model building and experimentation
+4. [ ] Evaluation and comparison of model performance
+5. [ ] Feature engineering and fine-tune the model
